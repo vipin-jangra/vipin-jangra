@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,postman)](https://skillicons.dev)
 
-###Socials
+### Socials
 <div id="badges">
   <a href="https://www.linkedin.com/in/vipin-jangra/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
