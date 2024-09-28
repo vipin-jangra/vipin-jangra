@@ -12,15 +12,7 @@
 ### Recent Projects
 
 #### 1. ChatterBox
-
-<div style="position: relative; display: inline-block;">
-    <a href="https://chatterbox-lq8z.onrender.com">
-        <img src="https://github.com/user-attachments/assets/32e0db9b-4bc7-463c-9c22-85846352d0f4" alt="ChatterBox" width="400"/>
-        <div style="position: absolute; top: 20px; left: 20px; color: white; font-weight: bold; background-color: rgba(0, 0, 0, 0.5); padding: 5px; border-radius: 5px;">
-            A real-time chat application built with **Next.js**, **Socket.IO**, and **MongoDB**. ChatterBox allows users to send and receive friend requests, chat in real-time, and get notifications for new messages and friend requests.
-        </div>
-    </a>
-</div>
+A real-time chat application built with **Next.js**,**Typescript**,**Tailwind CSS**, **** , **Socket.IO**, and **MongoDB**. ChatterBox allows users to send and receive friend requests, chat in real-time, and get notifications for new messages and friend requests.
 
 [**Live Demo**](https://chatterbox-lq8z.onrender.com)
 
