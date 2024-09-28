@@ -14,11 +14,12 @@
 ### Recent Projects
 
 #### 1. ChatterBox
-A real-time chat application built with **Next.js**,**Typescript**,**Tailwind CSS** , **Socket.IO**, and **MongoDB**. ChatterBox allows users to send and receive friend requests, chat in real-time, and get notifications for new messages and friend requests.
+A real-time chat application built with **Next.js**, **Socket.IO**, and **MongoDB**. ChatterBox allows users to send and receive friend requests, chat in real-time, and get notifications for new messages and friend requests.
 
 <a href="https://chatterbox-lq8z.onrender.com">
-    <img src="https://github.com/user-attachments/assets/32e0db9b-4bc7-463c-9c22-85846352d0f4" alt="ChatterBox" width="200"/>
+    <img src="https://github.com/user-attachments/assets/32e0db9b-4bc7-463c-9c22-85846352d0f4" alt="ChatterBox" width="300"/>
 </a>
+
 [**Live Demo**](https://chatterbox-lq8z.onrender.com)
 
 ---
